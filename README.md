@@ -10,11 +10,12 @@
   
   <img src="https://img.shields.io/badge/-Dart-00B4AB?style=for-the-badge&logo=dart" alt="Dart" />
   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Typesciprt-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-React-3d5a80?style=for-the-badge&logo=react" alt="React-JS" />
+  <img src="https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&logo=angular" alt="Angular" />
+  <img src="https://img.shields.io/badge/-JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-3d5a80?style=for-the-badge&logo=react" alt="React-JS" />
   <img src="https://img.shields.io/badge/-Redux-ada7ff?style=for-the-badge&logo=redux" alt="Redux" />
-  <img src="https://img.shields.io/badge/-Java-f94144?style=for-the-badge&logo=java" alt="JAVA" />
+  <!--   <img src="https://img.shields.io/badge/-Java-f94144?style=for-the-badge&logo=java" alt="JAVA" /> -->
 
  
 
@@ -27,8 +28,9 @@
  <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="SASS" />
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
   <img src="https://img.shields.io/badge/-html5-d3d3d3?style=for-the-badge&logo=html5" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-sass-ffafcc?style=for-the-badge&logo=sass" alt="SASS" />
   <img src="https://img.shields.io/badge/-css3-277da1?style=for-the-badge&logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/-sass-ffafcc?style=for-the-badge&logo=sass" alt="SASS" />
+  <img src="https://img.shields.io/badge/-bootsrap-EDEADE?style=for-the-badge&logo=bootstrap" alt="BOOTSTRAP" />
 
 </p>
 
