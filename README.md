@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&logo=angular" alt="Angular" />
   <img src="https://img.shields.io/badge/-JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-EDEADE?style=for-the-badge&logo=react" alt="React-JS" />
-  <img src="https://img.shields.io/badge/-Redux-ada7ff?style=for-the-badge&logo=redux" alt="Redux" />
-   <img src="https://img.shields.io/badge/-postgresql-336186?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<!--   <img src="https://img.shields.io/badge/-Redux-ada7ff?style=for-the-badge&logo=redux" alt="Redux" /> -->
+<!--    <img src="https://img.shields.io/badge/-postgresql-336186?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
 
  
 
