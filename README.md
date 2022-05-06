@@ -53,12 +53,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeTi-DeV&theme=react&count_private=true&hide_border=true" alt="Most Used Languages" />
 </p>
-<p align="center"><samp><strong>Other</strong></samp></p>
+<p align="center"><samp><strong>Github Status</strong></samp></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeTi-DeV&theme=react&hide_border=true" alt="Other Github Status" />
 </p>
 
 <hr>
+<a href="http://www.github.com/MeTi-DeV"><img src="https://activity-graph.herokuapp.com/graph?username=MeTi-DeV&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <p><samp><strong>Contact Me</strong></samp></p>
 <p> 
   <a href="https://discordapp.com/users/516728435901726736"><img src="https://img.shields.io/badge/-𝕄𝕖𝕙𝕕𝕚 1245-edf2f4?style=for-the-badge&logo=discord" alt="Discord" /></a>
