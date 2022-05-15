@@ -10,8 +10,8 @@
   
   <img src="https://img.shields.io/badge/-Dart-00B4AB?style=for-the-badge&logo=dart" alt="Dart" />
   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&logo=angular" alt="Angular" />
+<!--   <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript" alt="TypeScript" /> -->
+<!--   <img src="https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&logo=angular" alt="Angular" /> -->
   <img src="https://img.shields.io/badge/-JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-EDEADE?style=for-the-badge&logo=react" alt="React-JS" />
 <!--   <img src="https://img.shields.io/badge/-Redux-ada7ff?style=for-the-badge&logo=redux" alt="Redux" /> -->
