@@ -60,7 +60,7 @@
 
 <hr>
        <div align="center">
-  <p align="center"><samp><strong>WakaTime Daily Status</strong></samp></p>
+  <p align="center"><samp><strong>WakaTime Weekly Status</strong></samp></p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MeTi_DeV&layout=compact&bg_color=141321&color=A8FDF6" alt="WakaTime Status" />
 </div>
 <hr>
