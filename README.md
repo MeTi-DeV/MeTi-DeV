@@ -1,6 +1,8 @@
+<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MeTi-DeV&label=Profile%20Views&color=6&icon=5&pretty=false" />
 </a>
+<br>
 <p align="center"><h1 align="center"><samp> I'm Mehdi Zarei </samp></h1></p>
 <p align="center"><samp> Mobile Application and Front-End Developer <br> 
   I'm 23  👦🏻
