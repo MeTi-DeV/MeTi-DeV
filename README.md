@@ -1,8 +1,5 @@
-<br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MeTi-DeV&label=Profile%20Views&color=6&icon=5&pretty=false" />
-</a>
-<br>
+
+<!-- ![](https://hit.yhype.me/github/profile?user_id=60173619) -->
 <p align="center"><h1 align="center"><samp> I'm Mehdi Zarei </samp></h1></p>
 <p align="center"><samp> Mobile Application and Front-End Developer <br> 
   I'm 23  👦🏻
@@ -84,3 +81,6 @@
    <a href="mailto:mahdi_zarei78@yahoo.com/"><img src="https://img.shields.io/badge/-yahoo-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Yahoo!" /></a>
     <a href="https://www.linkedin.com/in/mehdi-zarei-668181197/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
 </p>
+<br>
+  <img src="https://komarev.com/ghpvc/?username=MeTi-DeV&style=for-the-badge&color=blueviolet" />
+<br>
