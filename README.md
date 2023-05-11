@@ -82,5 +82,5 @@
     <a href="https://www.linkedin.com/in/mehdi-zarei-668181197/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
 </p>
 <br>
-  <img src="https://komarev.com/ghpvc/?username=MeTi-DeV&style=for-the-badge&color=blueviolet" />
+<a href="https://wakatime.com/@c72ecdd9-5e33-44c1-b270-2aebf2ad10f0"><img src="https://wakatime.com/badge/user/c72ecdd9-5e33-44c1-b270-2aebf2ad10f0.svg" alt="Total time coded since Jul 15 2020" /></a>
 <br>
