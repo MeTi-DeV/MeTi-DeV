@@ -69,7 +69,11 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MeTi_DeV&layout=compact&bg_color=141321&color=A8FDF6" alt="WakaTime Status" />
 </div>
 <hr>
-
+ <p align="center"><samp><strong>Discord Status</strong></samp></p>
+ <div align=center>
+  <img src="https://lanyard.cnrad.dev/api/516728435901726736">
+</div>
+<hr>
 <a href="http://www.github.com/MeTi-DeV"><img
         src="https://github-readme-activity-graph.cyclic.app/graph?username=MeTi-DeV&bg_color=141321&color=A8FDF6&line=D83B7D&point=F7D747&area_color=141321&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
         alt="GitHub Commits Graph" /></a>
