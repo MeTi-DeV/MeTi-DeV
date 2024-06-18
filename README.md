@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Expreess" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Expreess" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
   <img src="https://img.shields.io/badge/mysql-ff9900.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 <!--  <img src="https://img.shields.io/badge/-React-EDEADE?style=for-the-badge&logo=react" alt="React-JS" /> -->
 <!--  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue-JS" /> -->
