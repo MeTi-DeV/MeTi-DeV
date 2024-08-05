@@ -86,8 +86,11 @@
         src="https://github-readme-activity-graph.vercel.app/graph?username=MeTi-DeV&bg_color=141321&color=A8FDF6&line=D83B7D&point=F7D747&area_color=141321&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
         alt="GitHub Commits Graph" />
 </a>
-        <hr>
+     
     
+<p><samp><strong>GitHub Trophies</strong></samp></p>
+![](https://github-profile-trophy.vercel.app/?username=MeTi-DeV&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+ <hr>
 <p><samp><strong>Contact Me</strong></samp></p>
 <p> 
   <a href="https://discordapp.com/users/516728435901726736"><img src="https://img.shields.io/badge/-𝕄𝕖𝕙𝕕𝕚 1245-edf2f4?style=for-the-badge&logo=discord" alt="Discord" /></a>
